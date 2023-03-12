@@ -25,4 +25,5 @@ The code, including the code of the site itself and the code in the exercises, a
 [React icons created by Pixel perfect - Flaticon](https://www.flaticon.com/free-icons/react)
 
 ### Daily
-Following class. 
+3/11/2023: Following class. 
+3/12/2023: Continuing to follow class. Learned lots of new concepts that appear to have simple implementation. React router is used for different 'pages'. He also refactored and made separate 'queries' for api calls that use caching for faste performance. The other thing he did was empty use Effect. I believe this is also to optimize performance. Finally he used set Errors.And I'm confused about when I should use them. He did make an error component that can be reused. It can be set to run before the query so it can be viewed ibn the browser. 
